@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LSearchView</string>
+
+    <string name="l_search_hint">搜索</string>
+    <string name="l_search_cancel">取消</string>
+    <string name="l_search_clear">清除搜索历史</string>
+</resources>

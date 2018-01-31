@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LSearchClear" >
+        <attr name="showLeftSearch" format="boolean"/>
+    </declare-styleable>
+</resources>
